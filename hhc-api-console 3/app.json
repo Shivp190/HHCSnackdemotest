@@ -1,0 +1,1 @@
+{ "expo": { "name": "HHC API Console", "slug": "hhc-api-console", "version": "1.0.0", "orientation": "portrait", "platforms": ["ios", "android", "web"], "sdkVersion": "57.0.0" } }
